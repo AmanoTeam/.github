@@ -5,6 +5,7 @@ At [Amano](https://amanoteam.com/), we're reimagining software development. We'r
 ## What we do
 
 Some of our most notable projects are:
+ - [Hydrogram](https://github.com/AmanoTeam/Hydrogram): A sleek, advanced, and asynchronous Telegram MTProto API framework in Python, designed for fluid user and bot interactions.
  - [EduuRobot](https://github.com/AmanoTeam/EduuRobot): A multipurpose administrative bot for Telegram written in Python.
  - [UserLixo](https://github.com/AmanoTeam/UserLixo): A multipurpose userbot for Telegram written in Python.
  - [LyricsPy](https://lyricspy.amanoteam.com/): A Telegram bot and Python library for searching music lyrics and displaying playback information.
